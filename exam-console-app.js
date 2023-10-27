@@ -19,9 +19,9 @@ function calculateRectangleArea(length, width) {
 }
 
 // Calculate the areas
-var circleArea = calculateCircleArea(5);
-var squareArea = calculateSquareArea(4);
-var triangleArea = calculateTriangleArea(3, 6);
+var circleArea = calculateCircleArea(9);
+var squareArea = calculateSquareArea(6);
+var triangleArea = calculateTriangleArea(4, 6);
 var rectangleArea = calculateRectangleArea(4, 8);
 
 // Calculate the total area
